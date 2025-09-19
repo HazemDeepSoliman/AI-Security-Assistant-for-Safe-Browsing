@@ -1,0 +1,33 @@
+URL Classification Models - Complete Collection
+==================================================
+
+Best Performing Model: Advanced Hybrid
+Best Accuracy: 0.9849
+
+Model Folders Created:
+-------------------------
+📁 GRU/
+   Accuracy: 0.9649
+   Best: ❌ No
+   Files: model.h5, tokenizer.pkl, preprocessing_info.pkl, README.txt
+
+📁 CNN/
+   Accuracy: 0.9667
+   Best: ❌ No
+   Files: model.h5, tokenizer.pkl, preprocessing_info.pkl, README.txt
+
+📁 Hybrid_CNN_GRU/
+   Accuracy: 0.9648
+   Best: ❌ No
+   Files: model.h5, tokenizer.pkl, preprocessing_info.pkl, README.txt
+
+📁 Advanced_Hybrid/
+   Accuracy: 0.9849
+   Best: ❌ No
+   Files: model.h5, tokenizer.pkl, preprocessing_info.pkl, README.txt
+
+Quick Start:
+---------------
+1. Navigate to the model folder you want to use
+2. Load the .h5 model file and .pkl files
+3. Check the README.txt for specific instructions
